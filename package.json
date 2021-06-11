@@ -1,0 +1,24 @@
+{
+    "name": "kinda-blue",
+    "displayName": "kinda-blue",
+    "description": "dark theme on top of material ocean with a little bit blue in it",
+    "version": "0.0.1",
+    "scripts": {
+        "install-locally": "cp -R . ~/.vscode/extensions/saurabh.kind-blue"
+    },
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kinda Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kinda Blue-color-theme.json"
+            }
+        ]
+    }
+}
