@@ -4,7 +4,7 @@
     "description": "dark theme on top of material ocean with a little bit blue in it",
     "version": "0.0.1",
     "scripts": {
-        "install-locally": "cp -R . ~/.vscode/extensions/saurabh.calvera-dark"
+        "install-locally": "node scripts/install-locally.js"
     },
     "engines": {
         "vscode": "^1.57.0"
