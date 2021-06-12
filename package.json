@@ -1,10 +1,10 @@
 {
-    "name": "kinda-blue",
-    "displayName": "kinda-blue",
+    "name": "calvera-dark",
+    "displayName": "Calvera Dark",
     "description": "dark theme on top of material ocean with a little bit blue in it",
     "version": "0.0.1",
     "scripts": {
-        "install-locally": "cp -R . ~/.vscode/extensions/saurabh.kind-blue"
+        "install-locally": "cp -R . ~/.vscode/extensions/saurabh.calvera-dark"
     },
     "engines": {
         "vscode": "^1.57.0"
@@ -15,9 +15,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Kinda Blue",
+                "label": "Calvera Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Kinda Blue-color-theme.json"
+                "path": "./themes/Calvera Dark-color-theme.json"
             }
         ]
     }
