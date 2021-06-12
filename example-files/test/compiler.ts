@@ -15,7 +15,7 @@ function validateAbellBlock(
     statementTypeMap.length > 1
   ) {
     console.log('\nWARNING:');
-    console.log(`${hello}/snaisa`)
+    console.log(`${hello}/snaisa`);
     console.log('{{\n>' + jsCode + '\n}}');
     console.log(
       'SYNTAX WARN: An Abell Block should not have multiple expressions that output values', // eslint-disable-line

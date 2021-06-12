@@ -49,9 +49,16 @@
 		"editorWidget.foreground": "#9e9edf",
 		"input.background": "#1c1c42",
 		"input.border": "#2a2a5c",
+		"dropdown.background": "#1c1c42",
+		"dropdown.border": "#2a2a5c",
+		"button.background": "#4b4bd6",
+		"textLink.foreground": "#8080ec",
 		"editorWidget.border": "#30306d",
 		"debugToolBar.background": "#1c1c42",
-		"debugToolBar.border": "#39397b"
+		"debugToolBar.border": "#39397b",
+		"settings.modifiedItemIndicator": "#447df6",
+		"editorGutter.modifiedBackground": "#447df6",
+		"editorGutter.addedBackground": "#4dfd4d83",
 	},
 	"tokenColors": [
 		{
@@ -224,7 +231,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#c2ecb1"
+				"foreground": "#adcea1"
 			}
 		},
 		{
@@ -241,7 +248,7 @@
 				"support.type.primitive"
 			],
 			"settings": {
-				"foreground": "#f8d9b4"
+				"foreground": "#d6b295"
 			}
 		},
 		{
