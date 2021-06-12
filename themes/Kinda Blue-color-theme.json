@@ -7,10 +7,15 @@
 		"sideBarSectionHeader.background": "#080813",
 		"sideBarTitle.foreground": "#9e9edf",
 		"sideBar.foreground": "#474775",
+		"focusBorder": "#434380",
 		"gitDecoration.ignoredResourceForeground": "#47477577",
 		"gitDecoration.modifiedResourceForeground": "#4b4bd6",
 		"tree.indentGuidesStroke": "#262646",
+		"list.activeSelectionBackground": "#29294e",
 		"list.activeSelectionForeground": "#9e9edf",
+		"list.hoverBackground": "#23234d",
+		"list.focusOutline": "#121230",
+		"list.inactiveSelectionBackground": "#121230",
 		"list.inactiveSelectionForeground": "#9e9edf",
 		"activityBar.background": "#0a0a1a",
 		"activityBar.activeBorder": "#333362",
@@ -22,6 +27,7 @@
 		"tab.inactiveBackground": "#0c0c1f",
 		"tab.activeBackground": "#0c0c1f",
 		"tab.activeBorder": "#333362",
+		"tab.border": "#1c1c3a22",
 		"tab.activeForeground": "#9e9edf",
 		"tab.inactiveForeground": "#333362",
 		"titleBar.activeBackground": "#0c0c1f",
@@ -37,6 +43,15 @@
 		"editorIndentGuide.background": "#2a2a57",
 		"editorIndentGuide.activeBackground": "#5050b9",
 		"editor.foreground": "#9e9edf",
+		"editorGroup.border": "#2a2a5799",
+		"widget.shadow": "#000",
+		"editorWidget.background": "#1c1c42",
+		"editorWidget.foreground": "#9e9edf",
+		"input.background": "#1c1c42",
+		"input.border": "#2a2a5c",
+		"editorWidget.border": "#30306d",
+		"debugToolBar.background": "#1c1c42",
+		"debugToolBar.border": "#39397b"
 	},
 	"tokenColors": [
 		{
@@ -91,6 +106,15 @@
 			}
 		},
 		{
+			"name": "Operator Symbols",
+			"scope": [
+				"keyword.operator",
+			],
+			"settings": {
+				"foreground": "#7eb0ff"
+			}
+		},
+		{
 			"name": "Operator, Misc",
 			"scope": [
 				"keyword.control",
@@ -107,7 +131,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#87a2fb"
+				"foreground": "#89a4ff"
 			}
 		},
 		{
@@ -118,7 +142,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#e97a7a"
 			}
 		},
 		{
@@ -154,6 +178,15 @@
 			}
 		},
 		{
+			"name": "Variable Property",
+			"scope": [
+				"support.variable.property",
+			],
+			"settings": {
+				"foreground": "#9298be"
+			}
+		},
+		{
 			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 			"scope": [
 				"constant.numeric",
@@ -165,7 +198,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#fffec3"
+				"foreground": "#e2e08a"
 			}
 		},
 		{
@@ -204,7 +237,8 @@
 				"meta.use.php",
 				"support.other.namespace.php",
 				"markup.changed.git_gutter",
-				"support.type.sys-types"
+				"support.type.sys-types",
+				"support.type.primitive"
 			],
 			"settings": {
 				"foreground": "#f8d9b4"
@@ -217,6 +251,15 @@
 			],
 			"settings": {
 				"foreground": "#B2CCD6"
+			}
+		},
+		{
+			"name": "Object Key",
+			"scope": [
+				"meta.object-literal.key"
+			],
+			"settings": {
+				"foreground": "#8b96d4"
 			}
 		},
 		{
@@ -280,7 +323,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#a991eb"
 			}
 		},
 		{
@@ -369,10 +412,19 @@
 			}
 		},
 		{
+			"name": "Brackets",
+			"scope": [
+				"punctuation.definition.tag",
+			],
+			"settings": {
+				"foreground": "#eb0000",
+			}
+		},
+		{
 			"name": "Decorators",
 			"scope": [
 				"tag.decorator.js entity.name.tag.js",
-				"tag.decorator.js punctuation.definition.tag.js"
+				"tag.decorator.js punctuation.definition.tag.js",
 			],
 			"settings": {
 				"fontStyle": "italic",

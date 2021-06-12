@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="hello.css" />
+  <style>
+  button.foobar#nice[data-abell] {
+    background-color: rebeccapurple;
+  }
+  </style>
+
+</head>
+<body>
+  {{ 
+    const a = 3;
+    const b = 99;
+  }}
+
+  {{
+    [1, 2, 3].map((val) => /* html */ `
+      <div>${val}</div>
+    `)
+  }}
+</body>
+</html>

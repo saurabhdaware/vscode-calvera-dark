@@ -4,7 +4,7 @@ type ValidateProps = {
   hello: string;
 }
 
-function validate(testProp: ValidateProps): void {
+function validate(testProp: ValidateProps): string {
   const STRING_TEST = 'Nicee';
   let numberTest = 312;
   const arrayTest = ['hello', 'hi', 'hehe'];
@@ -12,6 +12,8 @@ function validate(testProp: ValidateProps): void {
     console.log(val, xyz);
   }
   console.log(testProp);
+
+  return '';
 }
 
 export default validate;
