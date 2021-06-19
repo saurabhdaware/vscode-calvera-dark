@@ -135,7 +135,8 @@
 				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
 				"keyword.other.template",
-				"keyword.other.substitution"
+				"keyword.other.substitution",
+				"punctuation.definition.tag"
 			],
 			"settings": {
 				"foreground": "#89a4ff"
@@ -188,6 +189,7 @@
 			"name": "Variable Property",
 			"scope": [
 				"support.variable.property",
+				"meta.jsx.children"
 			],
 			"settings": {
 				"foreground": "#9298be"
@@ -416,15 +418,6 @@
 			],
 			"settings": {
 				"fontStyle": "underline"
-			}
-		},
-		{
-			"name": "Brackets",
-			"scope": [
-				"punctuation.definition.tag",
-			],
-			"settings": {
-				"foreground": "#eb0000",
 			}
 		},
 		{
