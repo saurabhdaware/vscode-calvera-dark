@@ -1,4 +1,4 @@
-# <img src="/images/milky-way-icon.png?" width="40"> Calvera Dark
+# <img src="https://raw.githubusercontent.com/saurabhdaware/vscode-calvera-dark/main/images/milky-way-icon.png" width="40"> Calvera Dark
 
 A Dark Blue theme for VSCode. 
 

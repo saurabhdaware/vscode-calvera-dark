@@ -4,7 +4,7 @@
     "description": "dark theme on top of material ocean with a little bit blue in it",
     "version": "0.0.1",
     "publisher": "saurabh",
-    "icon": "images/milky-way-icon.png",
+    "icon": "https://raw.githubusercontent.com/saurabhdaware/vscode-calvera-dark/main/images/milky-way-icon.png",
     "engines": {
         "vscode": "^1.57.0"
     },
