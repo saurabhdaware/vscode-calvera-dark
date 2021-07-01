@@ -3,15 +3,22 @@
     "displayName": "Calvera Dark",
     "description": "dark theme on top of material ocean with a little bit blue in it",
     "version": "0.0.1",
-    "scripts": {
-        "install-locally": "node scripts/install-locally.js"
-    },
+    "publisher": "saurabh",
+    "icon": "images/milky-way-icon.png",
     "engines": {
         "vscode": "^1.57.0"
     },
+    "author": {
+		"name": "saurabhdaware"
+	},
     "categories": [
         "Themes"
     ],
+    "keywords": [
+		"Calvera Dark",
+		"Dark Theme",
+		"Blue"
+	],
     "contributes": {
         "themes": [
             {
