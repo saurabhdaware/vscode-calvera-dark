@@ -1,13 +1,19 @@
-# README
-## This is the README for your extension "kinda-blue"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Calvera Dark 🌌
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A Dark Blue theme for VSCode. 
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+*Note: Still WIP so I may have missed out some colors*
 
-**Enjoy!**
+Mostly tested on TypeScript and JavaScript.
+
+## Examples
+### TypeScript
+![A react counter in tsx](https://github.com/saurabhdaware/vscode-calvera-dark/tree/main/images/tsx.png)
+
+### JavaScript
+![Hello world example in React JS](https://github.com/saurabhdaware/vscode-calvera-dark/tree/main/images/js.png)
+
+### HTML
+![Hello World example in HTML](https://github.com/saurabhdaware/vscode-calvera-dark/tree/main/images/html.png)
+
+**Thanks 🌻**
