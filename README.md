@@ -8,12 +8,12 @@ Mostly tested on TypeScript and JavaScript.
 
 ## Examples
 ### TypeScript
-![A react counter in tsx](https://github.com/saurabhdaware/vscode-calvera-dark/tree/main/images/tsx.png)
+![A react counter in tsx](images/tsx.png)
 
 ### JavaScript
-![Hello world example in React JS](https://github.com/saurabhdaware/vscode-calvera-dark/tree/main/images/js.png)
+![Hello world example in React JS](images/js.png)
 
 ### HTML
-![Hello World example in HTML](https://github.com/saurabhdaware/vscode-calvera-dark/tree/main/images/html.png)
+![Hello World example in HTML](images/html.png)
 
 **Thanks 🌻**
