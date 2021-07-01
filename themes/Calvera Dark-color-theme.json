@@ -109,7 +109,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#6d6df1"
+				"foreground": "#6977f3"
 			}
 		},
 		{
@@ -139,7 +139,7 @@
 				"punctuation.definition.tag"
 			],
 			"settings": {
-				"foreground": "#89a4ff"
+				"foreground": "#7878e7"
 			}
 		},
 		{
@@ -303,7 +303,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#aab4ec"
 			}
 		},
 		{
