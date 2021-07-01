@@ -8,6 +8,10 @@
     "engines": {
         "vscode": "^1.57.0"
     },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/saurabhdaware/vscode-calvera-dark.git"
+	},
     "author": {
 		"name": "saurabhdaware"
 	},
