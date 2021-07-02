@@ -1,6 +1,7 @@
 console.log(prop.xyz);
 function sxyz() {
-  if (x) {
+  if (x === 3) {
+    
 
   }
 
