@@ -1,0 +1,9 @@
+<html>
+{{
+  const a = 3;
+  const b = 4;
+}}
+<body>
+  {{ a + b }}
+</body>
+</html>
