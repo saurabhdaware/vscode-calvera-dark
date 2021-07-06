@@ -37,7 +37,7 @@
 		"terminal.foreground": "#9e9edf",
 		"statusBar.background": "#0c0c1f",
 		"statusBar.foreground": "#333362",
-		"editorLineNumber.foreground": "#1c1c3aaa",
+		"editorLineNumber.foreground": "#1c1c3a",
 		"editorLineNumber.activeForeground": "#373777",
 		"editor.lineHighlightBorder": "#17173d",
 		"editorIndentGuide.background": "#2a2a57",
