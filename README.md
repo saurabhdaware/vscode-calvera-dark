@@ -18,4 +18,16 @@ Mostly tested on TypeScript and JavaScript.
 
 *Dark Sky Icon by Google. Downloaded from [emojipedia](https://emojipedia.org/google/android-11.0-december-2020-feature-drop/milky-way/)*
 
+## Run Locally
+
+- Clone the repository
+- In VSCode, open `themes/calvera-dark.json` file.
+- Press `F5` or click the Run button from Run and Debug tab.
+
+## Ports to Other Editors
+
+- [Neovim](https://github.com/yashguptaz/calvera-dark.nvim) by [yashguptaz](https://github.com/yashguptaz)
+
+
+
 **Thanks 🌻**
