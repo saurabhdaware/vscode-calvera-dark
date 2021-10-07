@@ -81,6 +81,8 @@
 		"terminal.ansiBrightWhite": "#f5f5f5",
 		"terminal.ansiBrightBlack": "#6161a1",
 		"terminal.ansiBrightGreen": "#58dd80",
+		"statusBar.noFolderBackground": "#6d6db1",
+		"statusBar.debuggingBackground": "#6d6db1"
 	},
 	"tokenColors": [
 		{
