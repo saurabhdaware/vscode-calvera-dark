@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/saurabhdaware/vscode-calvera-dark/main/images/milky-way-icon.png" width="40"> Calvera Dark
 
-A Dark Blue theme for VSCode. 
+A Dark Blue Theme for VSCode. 
 
 *Note: Still WIP so I may have missed out some colors*
 
@@ -22,7 +22,7 @@ Mostly tested on TypeScript and JavaScript.
 
 - Clone the repository
 - In VSCode, open `themes/calvera-dark.json` file.
-- Press `F5` or click the Run button from Run and Debug tab.
+- Press `F5` or Click the Run button from Run and Debug tab.
 
 ## Ports to Other Editors
 
@@ -30,4 +30,4 @@ Mostly tested on TypeScript and JavaScript.
 
 
 
-**Thanks 🌻**
+**Thanks🌻**
