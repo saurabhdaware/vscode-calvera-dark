@@ -1,8 +1,9 @@
 .hljs {
   --code-background: #0c0c1f;
-  --text-color: #9e9edf;
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
-    "Courier New", monospace;
+  --text-color: #a3a3dd;
+  --highlight-font: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+  "Courier New", monospace;
+  font-family: var(--highlight-font);
   display: block;
   overflow-x: auto;
   padding: 2rem;
@@ -40,7 +41,7 @@
 }
 
 .hljs-literal {
-  color: #56b6c2;
+  color: #DBB987;
 }
 .hljs-string,
 .hljs-regexp,
@@ -60,7 +61,7 @@
 .hljs-selector-class,
 .hljs-selector-attr,
 .hljs-selector-pseudo {
-  color: var(--text-color);
+  color: #8B96D4;
 }
 .hljs-number {
   color: #d19a66;

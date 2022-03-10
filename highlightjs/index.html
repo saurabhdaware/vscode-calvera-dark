@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HighlightJS Example</title>
+  <link rel="stylesheet" href="./theme.css" />
+</head>
+<body>
+  <pre><code class="js language-javascript"></code></pre>
+  <pre><code class="html language-html"></code></pre>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/highlight.min.js"></script>
+  <script src="https://unpkg.com/dedent@0.7.0/dist/dedent.js"></script>
+  <script>
+    const jsCode = dedent`
+    const path = require('path');
+    const a = 3;
+    const b = 'hi';
+    const x = {hello: true};
+    const xyz = () => {}
+    xyz(false)
+    `;
+
+    const htmlCode = dedent`
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <link rel="stylesheet" href="./theme.css" />
+      </head>
+      <body>
+        helo
+      </body>
+    </html>
+    `.replace(/>/g, '&gt;').replace(/</g, '&lt;')
+
+    document.querySelector('code.js').innerHTML = jsCode;
+    document.querySelector('code.html').innerHTML = htmlCode;
+
+  
+  hljs.highlightAll();
+  </script>
+</body>
+</html>

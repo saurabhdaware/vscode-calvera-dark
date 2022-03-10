@@ -1,8 +1,12 @@
-throw new Error(`
-Nothing in JS file.
+module.exports = () => {
+  throw new Error(`
+  Nothing in JS file.
+  
+  import theme.css in your javascript file
+  \`\`\`
+  import 'highlightjs-calvera-dark/theme.css';
+  \`\`\`
+  `)
+} 
 
-import theme.css in your javascript file
-\`\`\`
-import 'highlightjs-calvera-dark/theme.css';
-\`\`\`
-`)
+const a = {hello: 'hi'};

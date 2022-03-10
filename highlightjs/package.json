@@ -1,7 +1,7 @@
 {
   "name": "highlightjs-calvera-dark",
-  "version": "0.0.2",
-  "description": "",
+  "version": "0.0.3",
+  "description": "Calvera Dark theme from VSCode for highlight.js",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -11,6 +11,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "saurabhdaware",
   "license": "ISC"
 }
