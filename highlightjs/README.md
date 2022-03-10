@@ -9,7 +9,7 @@ Example: https://stackblitz.com/edit/web-platform-w9beem?file=index.html
 **Use from CDN**
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/highlightjs-calvera-dark@0.0.1/theme.css" />
+<link rel="stylesheet" href="https://unpkg.com/highlightjs-calvera-dark/theme.css" />
 ```
 
 or 
