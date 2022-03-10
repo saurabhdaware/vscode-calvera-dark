@@ -2,7 +2,7 @@
 
 Highlight.js theme for [calvera dark](https://github.com/saurabhdaware/vscode-calvera-dark).
 
-![syntax highlighter preview](preview.png)
+![syntax highlighter preview](https://raw.githubusercontent.com/saurabhdaware/vscode-calvera-dark/main/highlightjs/preview.png)
 
 Example: https://stackblitz.com/edit/web-platform-w9beem?file=index.html
 

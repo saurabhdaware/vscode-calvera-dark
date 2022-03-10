@@ -1,6 +1,6 @@
 {
   "name": "highlightjs-calvera-dark",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Calvera Dark theme from VSCode for highlight.js",
   "main": "index.js",
   "repository": {
