@@ -82,7 +82,15 @@
 		"terminal.ansiBrightBlack": "#6161a1",
 		"terminal.ansiBrightGreen": "#58dd80",
 		"statusBar.noFolderBackground": "#6d6db1",
-		"statusBar.debuggingBackground": "#6d6db1"
+		"statusBar.debuggingBackground": "#6d6db1",
+		"statusBarItem.warningBackground": "#0000",
+		"statusBarItem.warningForeground": "#7e7f3a",
+		"statusBarItem.errorBackground": "#0000",
+		"statusBarItem.errorForeground": "#e54d4d",
+		"editorBracketHighlight.foreground1": "#6a6a97",
+    "editorBracketHighlight.foreground2": "#b2b787",
+    "editorBracketHighlight.foreground3": "#8e628f",
+    "editorBracketHighlight.foreground4": "#6565f2",
 	},
 	"tokenColors": [
 		{
