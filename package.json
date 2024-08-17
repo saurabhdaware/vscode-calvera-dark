@@ -2,7 +2,7 @@
     "name": "calvera-dark",
     "displayName": "Calvera Dark",
     "description": "Dark blue theme for VSCode",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "saurabh",
     "icon": "images/milky-way-icon.png",
     "engines": {
@@ -29,7 +29,17 @@
             {
                 "label": "Calvera Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Calvera Dark-color-theme.json"
+                "path": "./themes/calvera-dark-color-theme.json"
+            },
+            {
+                "label": "Calvera Dark High Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/calvera-dark-high-contrast-color-theme.json"
+            },
+            {
+                "label": "Calvera Light",
+                "uiTheme": "vs",
+                "path": "./themes/calvera-light-color-theme.json"
             }
         ]
     }
