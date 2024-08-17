@@ -228,6 +228,117 @@
 			"settings": {
 				"foreground": "#eb4c4c"  // Slightly darker for enhanced contrast
 			}
-		}
+		},
+		{
+				"name": "JSON Key - Level 0",
+				"scope": [
+						"source.json meta.structure.dictionary.json support.type.property-name.json"
+				],
+				"settings": {
+						"foreground": "#6A1B9A" // Darker and more vibrant for light themes
+				}
+		},
+		{
+				"name": "JSON Key - Level 1",
+				"scope": [
+						"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+				],
+				"settings": {
+						"foreground": "#F57F17" // Fresh and modern orange
+				}
+		},
+		{
+				"name": "JSON Key - Level 2",
+				"scope": [
+						"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+				],
+				"settings": {
+						"foreground": "#FF7043" // Lighter, warm orange
+				}
+		},
+		{
+				"name": "JSON Key - Level 3",
+				"scope": [
+						"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+				],
+				"settings": {
+						"foreground": "#F44336" // Bright red for contrast
+				}
+		},
+		{
+				"name": "JSON Key - Level 4",
+				"scope": [
+						"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+				],
+				"settings": {
+						"foreground": "#BF360C" // Darker orange for a deeper level
+				}
+		},
+		{
+				"name": "JSON Key - Level 5",
+				"scope": [
+						"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+				],
+				"settings": {
+						"foreground": "#64B5F6" // Light blue for a cool tone
+				}
+		},
+		{
+				"name": "JSON Key - Level 6",
+				"scope": [
+						"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+				],
+				"settings": {
+						"foreground": "#FF8A80" // Light, fresh pink
+				}
+		},
+		{
+				"name": "JSON Key - Level 7",
+				"scope": [
+						"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+				],
+				"settings": {
+						"foreground": "#7E57C2" // Muted purple
+				}
+		},
+		{
+				"name": "JSON Key - Level 8",
+				"scope": [
+						"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+				],
+				"settings": {
+						"foreground": "#DCE775" // Light, fresh green
+				}
+		},
+		{
+				"name": "Markdown - Plain",
+				"scope": [
+						"text.html.markdown",
+						"punctuation.definition.list_item.markdown"
+				],
+				"settings": {
+						"foreground": "#333" // Bright blue
+				}
+		},
+		{
+			"name": "Markdown - Headings",
+			"scope": [
+					"markup.heading"
+			],
+			"settings": {
+					"foreground": "#c77d1f",
+					"fontStyle": "bold"
+			}
+		},
+		{
+				"name": "Markdown - Separator",
+				"scope": [
+						"meta.separator"
+				],
+				"settings": {
+						"fontStyle": "bold",
+						"foreground": "#4F5B66" // Muted blue-gray
+				}
+		},
 	]
 }
