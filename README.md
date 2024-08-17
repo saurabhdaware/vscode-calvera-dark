@@ -1,8 +1,10 @@
-# <img src="https://raw.githubusercontent.com/saurabhdaware/vscode-calvera-dark/main/images/milky-way-icon.png" width="40"> Calvera Dark
+  <h1 align="center"><img src="https://raw.githubusercontent.com/saurabhdaware/vscode-calvera-dark/main/images/milky-way-icon.png" width="30" /> Calvera Dark</h1>
 
-A Dark Blue theme for VSCode with Syntax Highlighting inspired from Material UI 
+<p align="center">A Dark Blue theme for VSCode with Syntax Highlighting inspired from Material UI</p>
+<p align="center"><b><a href="https://marketplace.visualstudio.com/items?itemName=saurabh.calvera-dark">View on VSCode Marketplace</a></b> • <b><a href="https://www.npmjs.com/package/highlightjs-calvera-dark">Highlight.js Theme</a></b> • <b><a href="https://github.com/niyabits/calvera-dark.nvim">Neovim Port</a></b> (by <b><a href="https://github.com/niyabits">niyabits</a></b>)</p>
 
 <table>
+  <tr><th>Theme Name</th><th>Preview</th></tr>
   <tr>
     <th>Calvera Dark</th>
     <td><img src="./images/dark.png" alt="Calvera Dark" /></td>
@@ -24,10 +26,5 @@ A Dark Blue theme for VSCode with Syntax Highlighting inspired from Material UI
 - Clone the repository
 - In VSCode, open `themes/calvera-dark-color-theme.json` file.
 - Press `F5` or click the Run button from Run and Debug tab.
-
-## Ports to Other Editors
-
-- [Neovim](https://github.com/niyabits/calvera-dark.nvim) by [niyabits](https://github.com/niyabits)
-
 
 **Thanks 🌻**
