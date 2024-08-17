@@ -2,7 +2,7 @@
     "name": "calvera-dark",
     "displayName": "Calvera Dark",
     "description": "Dark blue theme for VSCode",
-    "version": "0.0.9",
+    "version": "0.1.0",
     "publisher": "saurabh",
     "icon": "images/milky-way-icon.png",
     "engines": {
@@ -12,6 +12,7 @@
         "type": "git",
         "url": "https://github.com/saurabhdaware/vscode-calvera-dark.git"
     },
+    "license": "MIT",
     "author": {
         "name": "saurabhdaware"
     },
